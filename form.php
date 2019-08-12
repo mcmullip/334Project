@@ -1,6 +1,7 @@
 <?php
 echo <<<_END
-<html> <head> <link href="form.css" type="text/css" rel="stylesheet" /> </head> <body>
+<html> <title>Seaside Hotel - Login</title><head> <link href="form.css" type="text/css" rel="stylesheet" /> </head> <body>
+<img class="logo" src="../pictures/logo.png" alt="Seaside Hotel logo">
 <form action="authenticate2.php" method="post">
   <label for="userid">ID</label>
   <input type="text" name="userid" id="userid" />  <br />
