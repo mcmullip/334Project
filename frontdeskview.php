@@ -21,7 +21,7 @@ if (!$result) die ("Database access failed: " . $conn->error);
 
 $rows = $result->num_rows;
   
-  echo "<p>Guest '$guestinfo' has '$rows' reservations</p>";
+  echo "<p>Guest $guestinfo has $rows reservations</p>";
 
     echo <<<_END
 <form action="frontdeskcontainer.php" method="post" id="alterreservations">
