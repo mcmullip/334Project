@@ -2,7 +2,7 @@
 COMP-334 Web Design final project
 
 
-Seaside Hotels Reservation System.
+Seaside Hotel Reservation System.
 
 Start at form.php, then log in either using username "testguest" and password "guestpass" to reach the guest page, or using username "testfrontdesk" and password "frontdeskpass" to reach the front desk/reception page.
 
