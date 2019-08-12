@@ -21,3 +21,7 @@ This will produce a list of that guest's reservations.  Front desk can then:
 - "Check out" a guest, deleting the checked reservation from the reservations table.
 
 Guest and Front desk can both log out and return to the login screen, and then you can log in as the other role by entering the appropriate username and password.
+
+Currently guest 1 has 2 reservations, which can be viewed (and cancelled) if desired
+
+Three other guests exist (guest id 2 3 4 respectively) who have reservations already in the system, making those rooms unavailable on those dates.  Enter 2, 3, or 4 on the front desk view page to view their names, reserved rooms, and dates they have rooms reserved.
